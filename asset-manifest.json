@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/final_dota2/static/css/main.9cd9f8cd.css",
+    "main.js": "/final_dota2/static/js/main.985bfd39.js",
+    "static/js/787.b308782c.chunk.js": "/final_dota2/static/js/787.b308782c.chunk.js",
+    "static/media/02-big.jpg": "/final_dota2/static/media/02-big.55e8268286a008f0aa84.jpg",
+    "static/media/husk3.jpg": "/final_dota2/static/media/husk3.b28d15a775bb77d27088.jpg",
+    "static/media/dota2_lina_wallpaper_by_lynx6.jpg": "/final_dota2/static/media/dota2_lina_wallpaper_by_lynx6.6f4ac222c8f1de788455.jpg",
+    "static/media/ember.jpg": "/final_dota2/static/media/ember.056befdd387fba992548.jpg",
+    "static/media/maxresdefault.jpg": "/final_dota2/static/media/maxresdefault.5b4c1bd2a55e2bf692f9.jpg",
+    "static/media/jagger.jpg": "/final_dota2/static/media/jagger.fd895d1c9dfd87052913.jpg",
+    "static/media/luna.jpg": "/final_dota2/static/media/luna.25e687a88cb0ce0bd42c.jpg",
+    "static/media/dota-2-is-unlike-most-games-of-its-kind.avif": "/final_dota2/static/media/dota-2-is-unlike-most-games-of-its-kind.16d3ce497d3686ed66a1.avif",
+    "static/media/sun.svg": "/final_dota2/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/final_dota2/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/final_dota2/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/instagram.svg": "/final_dota2/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/final_dota2/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/final_dota2/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/final_dota2/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/final_dota2/index.html",
+    "main.9cd9f8cd.css.map": "/final_dota2/static/css/main.9cd9f8cd.css.map",
+    "main.985bfd39.js.map": "/final_dota2/static/js/main.985bfd39.js.map",
+    "787.b308782c.chunk.js.map": "/final_dota2/static/js/787.b308782c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd9f8cd.css",
+    "static/js/main.985bfd39.js"
+  ]
+}
